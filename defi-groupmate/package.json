@@ -1,0 +1,6 @@
+{
+  "name": "defi-groupmate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal academic chat interface for an ERC-8004 DeFi Groupmate backed by the Anthropic API."
+}
