@@ -1,0 +1,22 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "DeFi Groupmate",
+  "description": "An educational AI group member for a DeFi course. It helps student teams explore how AI and blockchain can complement each other by asking questions, contributing ideas, challenging assumptions, and identifying what remains unresolved. Designed for classroom discussion, not financial advice or autonomous trading.",
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://defi-groupmate.vercel.app/"
+    }
+  ],
+  "x402Support": false,
+  "active": true,
+  "registrations": [
+    {
+      "agentId": 10601,
+      "agentRegistry": "eip155:11155111:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+    }
+  ],
+  "supportedTrust": [
+    "reputation"
+  ]
+}
